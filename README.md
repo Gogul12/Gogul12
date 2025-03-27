@@ -16,7 +16,7 @@
 
 🔹 [**LoRa Geofencing Application**](https://github.com/Gogul12/LoRa-GPS-Tracker-No-GSM-Internet-) – LoRa-based tracker for geofencing solutions.  
 🔹 [**DSA Problem-Solving**](https://github.com/your-repo) – A collection of solved DSA problems in Java.  
-🔹 [**Verilog Digital Design**](https://github.com/your-repo) – Verilog-based digital circuit projects.  
+🔹 [**Digital Design with Verilog**](https://github.com/your-repo) – Verilog-based digital circuit projects.  
 
 ## 📊 GitHub Stats
 

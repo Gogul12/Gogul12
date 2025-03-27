@@ -12,6 +12,13 @@
 - **Development**: Git, Linux, MATLAB, Keil, VS Code
 - **Domains**: IoT, Wireless Communication, DSA, Digital Design
 
+## 🚀 LeetCode Profile
+🔗 [My LeetCode Profile](https://leetcode.com/your-username/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/gogulan_3?theme=dark&ext=heatmap)
+
+![LeetCode Problems Solved](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=totalSolved&suffix=%20solved&url=https://leetcode-stats-api.herokuapp.com/gogulan_3)
+
+
 ## 📌 Pinned Projects
 
 🔹 [**LoRa Geofencing Application**](https://github.com/Gogul12/LoRa-GPS-Tracker-No-GSM-Internet-) – LoRa-based tracker for geofencing solutions.  

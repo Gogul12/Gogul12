@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 
 - **Languages**: Java, Python, Verilog, C
-- **Embedded Systems**: 8051 Microcontroller, TMS320C6745, LoRaWAN
+- **Embedded Systems**: 8051 Microcontroller, LoRaWAN
 - **Development**: Git, Linux, MATLAB, Keil, VS Code
 - **Domains**: IoT, Wireless Communication, DSA, Digital Design
 
